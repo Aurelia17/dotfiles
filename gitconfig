@@ -61,7 +61,7 @@
   defaultBranch = master
 [user]
 	email = aureliaritter@gmail.com
-	name = aurelia ritter
+	name = Aurelia Ritter
 [filter "lfs"]
 	process = git-lfs filter-process
 	required = true

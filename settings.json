@@ -8,7 +8,6 @@
     "editor.detectIndentation": false,
     "editor.fontSize": 14,
     "editor.guides.bracketPairs": true,
-    "editor.minimap.enabled": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.renderControlCharacters": true,
     "editor.rulers": [
@@ -76,13 +75,21 @@
     "telemetry.telemetryLevel": "off",
     "window.restoreWindows": "none",
     "window.newWindowDimensions": "maximized",
-    "workbench.editor.enablePreview": true,
     "workbench.iconTheme": "vscode-great-icons",
-    "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.panel.defaultLocation": "right",
+    "workbench.panel.defaultLocation": "bottom",
     "files.autoSave": "afterDelay",
     "diffEditor.ignoreTrimWhitespace": false,
+    "editor.minimap.enabled": false,
+    "github.copilot.enable": {
+      "*": false,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false
+    },
+    "terminal.integrated.automationProfile.osx": {
+
+    },
 }
